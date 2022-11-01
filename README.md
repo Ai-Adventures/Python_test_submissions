@@ -13,7 +13,7 @@
 **Step 3:** "Upload files" in the "Add file" dropdown
 
 **Step 4:** Drag and drop the file or folder you'd like to upload to your repository onto the file tree.
-![](https://docs.github.com/assets/cb-10159/images/help/repository/upload-files-drag-and-drop.png)
+![](https://user-images.githubusercontent.com/56781287/199195302-4fa85695-bcfe-49f2-a718-76a98eeb8def.png)
 
 
 **Step 5:** At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. 
@@ -21,7 +21,7 @@
 
 
 **Step 6:** Below the commit message fields. "Commit directly to `main` branch".
-![](https://docs.github.com/assets/cb-32137/images/help/repository/choose-commit-branch.png)
+![](https://user-images.githubusercontent.com/56781287/199195574-6607fa87-0878-4c9f-976f-31816cc08011.png)
 
 
 **Step 7:** Click Commit changes. 
