@@ -1,6 +1,7 @@
 # Python_test_submissions
 
-## Insturctions for test submission
+## Instructions for test submission
+
 
 
 **Step 1:** Navigate to the main page of the repository.
