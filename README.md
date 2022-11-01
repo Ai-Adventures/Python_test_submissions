@@ -2,9 +2,9 @@
 
 ## Instructions for test submission
 
-### Read this amazing article which will help you making your first contribution to this repository. 
+### Read this amazing video which will help you making your first contribution to this repository. 
 
-- [Article link](https://github.com/firstcontributions/first-contributions#first-contributions)
+- [Video link](https://www.youtube.com/watch?v=yr6IzOGoMsQ)
 
 ### Steps to follow on your repository while uploading your solution into the fork.
 
